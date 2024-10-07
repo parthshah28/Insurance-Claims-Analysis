@@ -6,13 +6,13 @@ MedInsure is a medical insurance company helping thousands of people cover the c
 
 The interactive dashboard can be found in Tableau Public [here](https://public.tableau.com/views/MedInsureClaimsDashboard_17282644146810/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). This dashboard enables users to filter by plan type, campaign type, and customer state, focusing on marketing, signup, and claim metrics.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/55deb0ad-8acd-4b62-88a5-1deae62b7138/8c12bfea-b684-4c22-8590-b75d44483fc9/image.png)
+![image.png](https://github.com/parthshah28/Insurance-Claims-Analysis/blob/main/Dashboard.png)
 
 ### **Data Structure**
 
 The data consisted of 70K records over three tables: (1) marketing campaigns, (2) customer signups and demographics, and (3) claim information. The entity relationship diagram (ERD) for this dataset is shown below:
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/55deb0ad-8acd-4b62-88a5-1deae62b7138/aa9dd98f-da4c-457c-8c9c-fb3bf1c2245a/image.png)
+![image.png](https://github.com/parthshah28/Insurance-Claims-Analysis/blob/main/ERD.png)
 
 ### **Key Metrics**
 
